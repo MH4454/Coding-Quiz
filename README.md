@@ -1,3 +1,6 @@
+https://mh4454.github.io/Coding-Quiz/
+^Link to site.
+![demo gif](Develop/assets/image/CodingQuizdemo.gif)
 # 04 Web APIs: Code Quiz
 
 ## Your Task
